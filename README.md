@@ -1,3 +1,3 @@
 # zirox_std_library
 
-My own standar library for C ** In progress **
+My own standard library for C ** In progress **
